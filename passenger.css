@@ -66,13 +66,12 @@ body{
 .button{
     height: 11vw;
     width: 22vw;
-    font-size: 4.5vh;
 }
 
 .mgmt{
 	height: 7vw;
 	width: 13vw;
-
+	font-size: 18pt;
 }
 
 .b1{
